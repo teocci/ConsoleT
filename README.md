@@ -1,8 +1,6 @@
 ConsoleT
 ========
 
-[![Join the chat at https://gitter.im/cbucher/console](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cbucher/console?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ![screenshot005](https://github.com/teocci/console/wiki/screenshot001.png)
 
 This is a modified version of Console 2 and ConsoleZ for a better experience under Windows Vista/7/8/10 and a better visual rendering.
@@ -28,7 +26,7 @@ This fork supports:
 Downloads
 =========
 
-See the [download wiki page](https://github.com/teocci/console/wiki/Downloads).
+See the [download wiki page](https://github.com/teocci/ConsoleT/wiki/Downloads).
 
 Changelog
 =========
